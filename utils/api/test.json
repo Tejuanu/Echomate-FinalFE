@@ -1,0 +1,126 @@
+{
+  "data": [
+    {
+      "clicks": "45",
+      "impressions": "87110",
+      "spend": "2.81",
+      "cpc": "0.062444",
+      "cpm": "0.032258",
+      "cpp": "0.032527",
+      "ctr": "0.051659",
+      "ad_name": "AI sneakers",
+      "account_name": "Flavor AI",
+      "account_currency": "USD",
+      "account_id": "351331814020812",
+      "actions": [
+        {
+          "action_type": "page_engagement",
+          "value": "42"
+        },
+        {
+          "action_type": "post_engagement",
+          "value": "42"
+        },
+        {
+          "action_type": "post_reaction",
+          "value": "24"
+        },
+        {
+          "action_type": "link_click",
+          "value": "18"
+        }
+      ],
+      "adset_id": "120206695140470066",
+      "adset_name": "Memorable settings \u2013 Copy",
+      "buying_type": "AUCTION",
+      "campaign_id": "120206694615390066",
+      "campaign_name": "Priority Awareness",
+      "conversion_rate_ranking": "UNKNOWN",
+      "cost_per_action_type": [
+        {
+          "action_type": "link_click",
+          "value": "0.156111"
+        },
+        {
+          "action_type": "post_engagement",
+          "value": "0.066905"
+        },
+        {
+          "action_type": "page_engagement",
+          "value": "0.066905"
+        }
+      ],
+      "cost_per_inline_link_click": "0.156111",
+      "cost_per_inline_post_engagement": "0.066905",
+      "cost_per_outbound_click": [
+        {
+          "action_type": "outbound_click",
+          "value": "0.165294"
+        }
+      ],
+      "cost_per_unique_action_type": [
+        {
+          "action_type": "link_click",
+          "value": "0.165294"
+        },
+        {
+          "action_type": "post_engagement",
+          "value": "0.068537"
+        },
+        {
+          "action_type": "page_engagement",
+          "value": "0.068537"
+        }
+      ],
+      "cost_per_unique_click": "0.062444",
+      "cost_per_unique_inline_link_click": "0.165294",
+      "cost_per_unique_outbound_click": [
+        {
+          "action_type": "outbound_click",
+          "value": "0.165294"
+        }
+      ],
+      "date_start": "2024-01-22",
+      "date_stop": "2024-02-05",
+      "engagement_rate_ranking": "UNKNOWN",
+      "frequency": "1.008334",
+      "inline_link_click_ctr": "0.020664",
+      "inline_link_clicks": "18",
+      "inline_post_engagement": "42",
+      "objective": "OUTCOME_AWARENESS",
+      "optimization_goal": "REACH",
+      "outbound_clicks": [
+        {
+          "action_type": "outbound_click",
+          "value": "17"
+        }
+      ],
+      "outbound_clicks_ctr": [
+        {
+          "action_type": "outbound_click",
+          "value": "0.019516"
+        }
+      ],
+      "quality_ranking": "UNKNOWN",
+      "reach": "86390",
+      "social_spend": "0",
+      "video_play_curve_actions": [
+        {
+          "action_type": "video_view"
+        }
+      ],
+      "website_ctr": [
+        {
+          "action_type": "link_click",
+          "value": "0.020664"
+        }
+      ]
+    }
+  ],
+  "paging": {
+    "cursors": {
+      "before": "MAZDZD",
+      "after": "MAZDZD"
+    }
+  }
+}
